@@ -13,6 +13,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     '158.160.225.152',
     'dinamikidaviddad.myftp.biz',
+    '.myftp.biz',
 ]
 
 
