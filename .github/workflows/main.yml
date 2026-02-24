@@ -5,6 +5,7 @@ on:
     branches:
       - main
 
+
 jobs:
   backend_tests:
     name: Test backend with flake8 and django tests                      
